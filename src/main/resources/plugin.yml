@@ -1,0 +1,4 @@
+name: teixtarcioPlugin
+version: '${project.version}'
+main: com.teixtarcio.teixtarcioPlugin
+api-version: 1.19
